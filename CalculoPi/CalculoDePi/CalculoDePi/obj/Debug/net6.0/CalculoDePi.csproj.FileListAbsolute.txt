@@ -1,0 +1,15 @@
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\bin\Debug\net6.0\CalculoDePi.exe
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\bin\Debug\net6.0\CalculoDePi.deps.json
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\bin\Debug\net6.0\CalculoDePi.runtimeconfig.json
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\bin\Debug\net6.0\CalculoDePi.dll
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\bin\Debug\net6.0\CalculoDePi.pdb
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.csproj.AssemblyReference.cache
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.AssemblyInfoInputs.cache
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.AssemblyInfo.cs
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.csproj.CoreCompileInputs.cache
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.dll
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\refint\CalculoDePi.dll
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.pdb
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\CalculoDePi.genruntimeconfig.cache
+C:\Users\Jchan\OneDrive\Escritorio\Tareas UNISUR\5to_Cuatri\2do_Bimestre\SIMULACION\Programas\CalculoPi\CalculoDePi\CalculoDePi\obj\Debug\net6.0\ref\CalculoDePi.dll
